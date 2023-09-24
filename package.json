@@ -1,0 +1,22 @@
+{
+    "name": "tourjs",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/diegomcsilva/tour.git"
+    },
+    "keywords": [
+        "tour"
+    ],
+    "author": "Diego Marcelo <diegomcsilva191@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/diegomcsilva/tour/issues"
+    },
+    "homepage": "https://github.com/diegomcsilva/tour#readme"
+}
