@@ -1,6 +1,10 @@
 
   var defaultImage = 'https://i.ibb.co/LPT3ZQW/Priscila-2022-RIG-Poses-Still-00003.png';
 
+  function log(params) {
+    console.log(params)  
+  }
+
   function createBgEl() {
     document.querySelector('body').insertAdjacentHTML(
         "afterbegin",
@@ -242,4 +246,4 @@
     });
   }
   
-  module.exports = { start }
+  module.exports = { start, log }
